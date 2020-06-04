@@ -1,1 +1,13 @@
-p { background-color: red;}
+p { color: firebrick;}
+
+h1 { color: blue;}
+
+h2 { color: firebrick;}
+
+h3 { color: firebrick;}
+
+li { color: pink;}
+
+.kappale { color: firebrick;}
+
+#jatkuu { color: red;}
