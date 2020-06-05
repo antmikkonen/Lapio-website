@@ -8,6 +8,13 @@
     position: absolute;
     width: 200px;
     height: 100px;
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    padding: 50px 0 0 0;
 }
 
 .second-box-container {
@@ -16,6 +23,13 @@
     left: 250px;
     width: 200px;
     height: 100px;
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    padding: 50px 0 0 0;
 }
 
 .third-box-container {
@@ -24,4 +38,11 @@
     left: 500px;
     width: 200px;
     height: 100px;
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    padding: 50px 0 0 0;
 }
